@@ -9,7 +9,7 @@ Durante o desenvolvimento colocamos em pratica conceitos básicos de **HTTP**, *
 ### Como rodar o Projeto
 ```bash
     # Clonar o repositório
-    $ git clone
+    $ git clone https://github.com/brunonielsen93/FinApi
 
     # Entrar no diretório
     $ cd FinApi
